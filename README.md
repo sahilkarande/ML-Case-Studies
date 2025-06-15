@@ -20,7 +20,7 @@ Welcome to the **ML Case Studies** repository! This collection showcases hands-o
 
 📈 **Outcome**: Both models performed well with an R² score of **0.71**, offering strong predictive insights for mid-range values.
 
-🔗 [View Project →](./Linear Regression)
+🔗 [View Project →](./LinearRegression)
 
 ---
 
