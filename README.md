@@ -20,7 +20,7 @@ Welcome to the **ML Case Studies** repository! This collection showcases hands-o
 
 📈 **Outcome**: Both models performed well with an R² score of **0.71**, offering strong predictive insights for mid-range values.
 
-🔗 [View Project →](./linear)
+🔗 [View Project →](./Linear Regression)
 
 ---
 
@@ -37,7 +37,7 @@ Welcome to the **ML Case Studies** repository! This collection showcases hands-o
 
 📊 **Outcome**: Achieved **85% accuracy** with high performance in identifying low-income individuals. Education, age, hours worked, and capital gains were among the most influential features.
 
-🔗 [View Project →](./logi)
+🔗 [View Project →](./LogisticRegression)
 
 ---
 
