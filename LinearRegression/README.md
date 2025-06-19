@@ -91,29 +91,11 @@ Each project includes thorough **Exploratory Data Analysis (EDA)**, model buildi
 
 ---
 
-<!-- ## 📂 Repository Structure
-
-```
-
-<!-- LinearRegression-CaseStudy/
-├── data/
-│   ├── data.csv
-│   └── housing.csv
-├── notebooks/
-│   └── linearregression.py
-├── images/
-│   └── \[EDA & model plots]
-├── report.md
-└── README.md --> -->
-
-```
-
----
-
 ## 📬 Contact
 
 👤 **Sahil Karande**  
 🎓 Computer Engineering | CDAC DBDA  
 📧 skarande220@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/sahil-karande-a77aa7207/) | [GitHub](https://github.com/sahilkarande)
+
 
